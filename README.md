@@ -12,10 +12,15 @@ Numerical Experiments of Paper “Understanding the Relationship between the Sca
 | Mnist |  | Yes |  |  |  |  | Yes |  |
 | FashionMnist |  | Yes |  |  |  |  | Yes |  |
 
-### pyth
+### Requirements
 
 >Python                       3.10.4
+>
 >tqdm                         4.66.5
+>
 >torch                        2.0.0+cu118
+>
 >timm                         0.9.5
+>
 >numpy                        1.26.4
+>
